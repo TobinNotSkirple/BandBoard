@@ -47,8 +47,7 @@
 
         <section id="contact">
             <h2>Contact Us</h2>
-            <p>If you have any questions or need assistance, feel free to reach out!</p>
-            <p>Email: <a href="mailto:InsertHere">InsertHere</a></p> <!-- Insert contact email -->
+            <p>If you would like to suggest features, report bugs, or contact me; please email me at skirple.mp4@gmail.com</p>
         </section>
     </main>
 
