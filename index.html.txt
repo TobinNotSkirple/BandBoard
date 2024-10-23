@@ -3,16 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to BandBoard!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 50px;
-        }
-    </style>
+    <title>Welcome to BandM8!</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
 </head>
 <body>
-    <h1>This site is in VERY early development and is fully solo; updates will vary!</h1>
+    <header>
+        <h1>Welcome to BandM8!</h1>
+        <nav>
+            <ul>
+                <li><a href="#messaging">Messaging</a></li>
+                <li><a href="#scheduling">Scheduling</a></li>
+                <li><a href="#setlists">Setlists</a></li>
+                <li><a href="#media">Media Sharing</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="messaging">
+            <h2>Messaging</h2>
+            <p>Connect with your bandmates with the first ever messaging platform FOR BANDMATES!</p>
+            <p>InsertHere: description coming soon!!.</p>
+        </section>
+
+        <section id="scheduling">
+            <h2>Scheduling</h2>
+            <p>Plan your gigs and rehearsals with ease.</p>
+            <p>InsertHere: Provide details about how to schedule gigs or link to a scheduling tool.</p>
+        </section>
+
+        <section id="setlists">
+            <h2>Setlists</h2>
+            <p>Create and share your setlists for upcoming performances.</p>
+            <p>InsertHere: Instructions for creating setlists or links to examples.</p>
+        </section>
+
+        <section id="media">
+            <h2>Media Sharing</h2>
+            <p>Share photos and videos with your bandmates and followers.</p>
+            <p>InsertHere: Explain how to upload media or link to a media sharing service.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or need assistance, feel free to reach out!</p>
+            <p>Email: <a href="mailto:InsertHere">InsertHere</a></p> <!-- Insert contact email -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 BandM8. All rights reserved.</p>
+    </footer>
 </body>
 </html>
