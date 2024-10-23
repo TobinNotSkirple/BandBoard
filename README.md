@@ -1,1 +1,1 @@
-BandBoard is in VERY EARLY beta.
+bandm8 is in VERY EARLY beta.
